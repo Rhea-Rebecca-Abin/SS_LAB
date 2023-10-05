@@ -1,0 +1,12 @@
+CSL 331 SYSTEM SOFTWARE AND MICROPROCESSOR LAB
+
+LAB CYCLE C5A 2023-2024
+
+Experiments from operating system :
+1. Simulate the following non-preempƟve CPU scheduling algorithms to find turnaround Ɵme and
+waiƟng Ɵme. a) FCFS b) SJF c) Round Robin (pre-empƟve) d) Priority
+2. Simulate the following file allocaƟon strategies. a) SequenƟal b) Indexed c) Linked
+3. Simulate the following file organizaƟon techniques a) Single level directory b) Two level directory
+c) Hierarchical
+4. Simulate the following disk scheduling algorithms. a) FCFS b) SCAN c) C-SCAN
+5. Simulate the following page replacement algorithms: a) FIFO b)LRU c) LFU
